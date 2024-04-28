@@ -1,0 +1,9 @@
+version: STSv1
+mode: testing
+max_age: 2419200
+mx: *.mailbox.org
+mx: mx1.mailbox.org
+mx: mx2.mailbox.org
+mx: mx3.mailbox.org
+mx: mxtls1.mailbox.org
+mx: mxtls2.mailbox.org
