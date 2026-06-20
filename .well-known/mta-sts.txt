@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 max_age: 2419200
 mx: *.mailbox.org
 mx: mx1.mailbox.org
