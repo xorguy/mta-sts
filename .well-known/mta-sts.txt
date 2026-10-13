@@ -8,3 +8,5 @@ mx: mx3.mailbox.org
 mx: mx4.mailbox.org
 mx: mxtls1.mailbox.org
 mx: mxtls2.mailbox.org
+mx: mxtls3.mailbox.org
+mx: mxtls4.mailbox.org
